@@ -4,8 +4,18 @@
 
 AbdiMaths is a simple JavaScript package for mathematical operations and geometry calculations.
 
-## Usage 
+## Installation
 
+You can install AbdiMaths using npm:
+
+```bash
+npm install abdimaths
+```
+
+## Usage 
+To use AbdiMaths in your JavaScript code, simply require the package and start performing various mathematical and geometric operations:
+
+```bash
 const AbdiMaths = require('abdimaths');
 
 // Basic arithmetic operations
@@ -31,13 +41,13 @@ console.log(AbdiMaths.trapezoidPerimeter(4, 6, 8)); // Output: 18
 console.log(AbdiMaths.quadraticEquation(1, -3, 2)); // Output: { root1: 2, root2: 1 }
 
 // And many more functions...
+```
 
+## Editor 
 
+AbdiRaK (AbdelRaouf KONE) abdel.koner@gmail.com
 
-## Installation
+## License
 
-You can install AbdiMaths using npm:
-
-```bash
-npm install abdimaths 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
