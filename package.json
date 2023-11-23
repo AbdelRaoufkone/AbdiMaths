@@ -1,0 +1,26 @@
+{
+  "name": "abdimaths",
+  "version": "1.0.0",
+  "description": "Mathematics functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdelRaoufkone/AbdiMaths.git"
+  },
+  "keywords": [
+    "math",
+    "function",
+    "mathematics",
+    "mathematique",
+    "equation"
+  ],
+  "author": "AbdiRak (AbdelRaouf KONE)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdelRaoufkone/AbdiMaths/issues"
+  },
+  "homepage": "https://github.com/AbdelRaoufkone/AbdiMaths#readme"
+}
