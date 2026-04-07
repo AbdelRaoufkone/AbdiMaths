@@ -1,10 +1,16 @@
 {
   "name": "abdimaths",
-  "version": "1.1.1",
-  "description": "Mathematics functions",
+  "version": "2.0.0",
+  "description": "A modern, modular JavaScript mathematics library — arithmetic, geometry, statistics, algebra, number theory, vectors & matrices.",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src/"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/index.test.js"
   },
   "repository": {
     "type": "git",
@@ -12,9 +18,16 @@
   },
   "keywords": [
     "math",
-    "function",
     "mathematics",
-    "mathematique",
+    "geometry",
+    "statistics",
+    "algebra",
+    "vectors",
+    "matrix",
+    "number-theory",
+    "trigonometry",
+    "fibonacci",
+    "prime",
     "equation"
   ],
   "author": "AbdiRak (AbdelRaouf KONE)",
